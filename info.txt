@@ -1,0 +1,3 @@
+- FNF font is now a diffult font so I have to type different font for every class;-;
+- img class yk
+- text-aligh also works for images etc
